@@ -1,10 +1,14 @@
-### Hi there, I'm  Christian a Fullstack-Webdeveloper <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi there, I'm  Christian a Fullstack-Webdeveloper <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 🔭 I’m currently working on an blockchain game idea
 - 🌱 I’m currently learning so so mutch, its great!
-- 📫 How to reach me:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />[LinkedIn:](https://www.linkedin.com/in/christian-peters-4aa300145/)
+## Connect with me:
+
+[LinkedIn:](https://www.linkedin.com/in/christian-peters-4aa300145/)
+
+### Languages and tools:
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <!--
 **EbbeUndFlut/EbbeUndFlut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
