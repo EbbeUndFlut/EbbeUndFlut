@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm  Christian a Fullstack-Webdeveloper 👋
 
+- 🔭 I’m currently working on an blockchain game idea
+- 🌱 I’m currently learning so so mutch, its great!
+- 📫 How to reach me:
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />]
 <!--
 **EbbeUndFlut/EbbeUndFlut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
