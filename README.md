@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning so so mutch, its great!
 - 📫 How to reach me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][https://www.linkedin.com/in/christian-peters-4aa300145/]
 <!--
 **EbbeUndFlut/EbbeUndFlut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
